@@ -5,10 +5,10 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
-* [Bibliography](#bibliography)
+* [Resources](#resources)
 
 ### General Info
-This is my first project of CodersCamp programming course. It is a simple portfolio-based webpage, no real informations are included in the content of this webpage (for now). 
+This is my first project of CodersCamp programming course. It is a simple portfolio-based webpage, no real informations are included in the content of this webpage (mostly). 
 
 ### Technologies
 Project is created with:
@@ -18,16 +18,12 @@ Project is created with:
 * VS Code
 
 ### Setup
-To run this project you simply have to click <a href='https://majstc.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/'>here</a> ! (be careful, github does not support _blank attribute :smile: )
+To run this project you simply have to click <a href='https://majstc.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/'>here</a> ! (be careful, github does not support *"_blank"* attribute :smile: )
 
 ### Status
 The project is finished in 99%... stay tuned! :wink:
 
-### Bibliography
-Study resources: 
-* https://coderscamp.edu.pl/
-* https://w3schools.com
-* https://stackoverflow.com<br>
+### Resources
 Image resources:
 * https://pexels.com
 
