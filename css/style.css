@@ -47,7 +47,7 @@ body {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    max-width: 100vw;
+    max-width: 90vw;
     font-size: 0.5em;
     background: rgb(46, 46, 46);
 }
@@ -111,7 +111,7 @@ a {
     display: grid;
     grid-template-areas: 'helloa' 'abouta' 'skillsa' 'projectsa' 'contacta';
     grid-gap: 10px;
-    max-width: 100vw;
+    max-width: 90vw;
     text-align: center;
     justify-items: center;
 }
@@ -133,6 +133,7 @@ p {
     justify-content: center;
     margin-top: 0;
     min-height: 80vh;
+    max-width: 100vw;
 }
 
 .abouta,
@@ -145,15 +146,18 @@ p {
     justify-content: center;
     margin-top: 10%;
     min-height: 90vh;
+    max-width: 100vw;
 }
 
 .skillsa {
     grid-area: skillsa;
+    max-width: 100vw;
 }
 
 .projectsa {
     grid-area: projectsa;
     padding-top: 5vh;
+    max-width: 100vw;
 }
 
 .projectstiles img {
@@ -166,6 +170,7 @@ p {
     transition: 1s;
     transform: scale(1.5);
     box-shadow: none;
+    cursor: pointer;
 }
 
 .contacta {
@@ -176,6 +181,7 @@ p {
     justify-content: center;
     margin-top: 10%;
     min-height: 90vh;
+    max-width: 90vw;
 }
 
 .responsive {
@@ -229,4 +235,22 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-thumb {
     background: rgb(27, 27, 27);
+}
+
+#input {
+    background: var(--mainbgcolor);
+    color: var(--mainfontcolor);
+}
+
+#button {
+    color: var(--mainfontcolor);
+    background: rgba(46, 46, 46, 0.664);
+}
+
+#input,
+#button {
+    border-top: solid 2px black;
+    border-left: solid 2px black;
+    border-bottom: solid 2px rgb(51, 51, 51);
+    border-right: solid 2px rgb(51, 51, 51);
 }
