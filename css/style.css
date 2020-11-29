@@ -166,6 +166,7 @@ p {
     transition: 1s;
     transform: scale(1.5);
     box-shadow: none;
+    cursor: pointer;
 }
 
 .contacta {
@@ -229,4 +230,22 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-thumb {
     background: rgb(27, 27, 27);
+}
+
+#input {
+    background: var(--mainbgcolor);
+    color: var(--mainfontcolor);
+}
+
+#button {
+    color: var(--mainfontcolor);
+    background: rgba(46, 46, 46, 0.664);
+}
+
+#input,
+#button {
+    border-top: solid 2px black;
+    border-left: solid 2px black;
+    border-bottom: solid 2px rgb(51, 51, 51);
+    border-right: solid 2px rgb(51, 51, 51);
 }
