@@ -18,7 +18,7 @@ Project is created with:
 * VS Code
 
 ### Setup
-To run this project you simply have to click <a href='https://majstc.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/'>here</a> ! (be careful, github does not support *"_blank"* attribute :smile: )
+To run this project you simply have to click <a href='https://majstc.github.io/CodersCamp2020.Project.HTML-CSS.Portfolio/'>here</a> ! (be careful, github does not support *"_blank"* attribute :smile: )
 
 You can also download this repo and open _index.html_
 
