@@ -20,6 +20,8 @@ Project is created with:
 ### Setup
 To run this project you simply have to click <a href='https://majstc.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/'>here</a> ! (be careful, github does not support *"_blank"* attribute :smile: )
 
+You can also download this repo and open _index.html_
+
 ### Status
 The project is finished in 99%... stay tuned! :wink:
 
