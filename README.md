@@ -8,26 +8,25 @@
 * [Resources](#resources)
 
 ### General Info
-This is my first project of CodersCamp programming course. It is a simple portfolio-based webpage, no real informations are included in the content of this webpage (mostly). 
+It is a simple animation/app project for education purposes.
 
 ### Technologies
 Project is created with:
-* HTML5
-* CSS3
-* GitHub Pages
-* VS Code
+* C++
+* SFML
+* VisualStudio
 
 ### Setup
-To run this project you simply have to click <a href='https://majstc.github.io/CodersCamp2020.Project.HTML-CSS.Portfolio/'>here</a> ! (be careful, github does not support *"_blank"* attribute :smile: )
-
-You can also download this repo and open _index.html_
+To run this project you have to download/clone this repository and inside the _*ROBIMY_CHOINKE*_ folder run the only .exe file. You can also open this as a Solution in VisualStudio.
 
 ### Status
-The project is finished in 99%... stay tuned! :wink:
+The project is finished. 
 
 ### Resources
+Sound resources:
+* https://www.youtube.com/watch?v=G-bErbL5MVc&ab_channel=S.Ginnem
 Image resources:
-* https://pexels.com
+* https://www.moviefanatic.com/gallery/if-you-really-love-christmas/
 
 
 
